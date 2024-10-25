@@ -5,7 +5,7 @@ body {
 
 /* Parallex Effect css */
 .parallax-effect {
-  background-image: url("../images/parallax1.jpg");
+  background-image: url("parallax1.jpg");
   width: 100%;
   height: 400px;
   background-attachment: fixed;
@@ -17,7 +17,7 @@ body {
 /* About us section css */
 
 .mask1 {
-  -webkit-mask-image: url("../images/Circle.png");
+  -webkit-mask-image: url("Circle.png");
   mask-image: url("../images/Circle.png");
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
