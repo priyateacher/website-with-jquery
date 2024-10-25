@@ -18,7 +18,7 @@ body {
 
 .mask1 {
   -webkit-mask-image: url("Circle.png");
-  mask-image: url("../images/Circle.png");
+  mask-image: url("Circle.png");
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   mask-size: contain;
